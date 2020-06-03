@@ -12,7 +12,7 @@ require (
 	github.com/soniah/gosnmp v1.23.1-0.20200214014533-6d3944030084
 	golang.org/x/sys v0.0.0-20200212091648-12a6c2dcc1e4 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 )
 
 go 1.13
